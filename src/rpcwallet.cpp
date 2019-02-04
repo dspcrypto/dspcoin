@@ -609,7 +609,7 @@ Value movecmd(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 3 || params.size() > 5)
         throw runtime_error(
-            "move <fromaccount> <dspccount> <amount> [minconf=1] [comment]\n"
+            "move <fromaccount> <toaccount> <amount> [minconf=1] [comment]\n"
             "Move from one account in your wallet to another.");
 
     accountingDeprecationCheck();
