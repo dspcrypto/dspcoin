@@ -5722,9 +5722,9 @@
              <colorrole role="WindowText">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>255</red>
-                <green>255</green>
-                <blue>255</blue>
+                <red>0</red>
+                <green>0</green>
+                <blue>0</blue>
                </color>
               </brush>
              </colorrole>
@@ -5776,9 +5776,9 @@
              <colorrole role="Text">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>255</red>
-                <green>255</green>
-                <blue>255</blue>
+                <red>0</red>
+                <green>0</green>
+                <blue>0</blue>
                </color>
               </brush>
              </colorrole>
@@ -5864,11 +5864,11 @@
               </brush>
              </colorrole>
              <colorrole role="PlaceholderText">
-              <brush brushstyle="NoBrush">
+              <brush brushstyle="SolidPattern">
                <color alpha="128">
-                <red>255</red>
-                <green>255</green>
-                <blue>255</blue>
+                <red>0</red>
+                <green>0</green>
+                <blue>0</blue>
                </color>
               </brush>
              </colorrole>
@@ -5877,9 +5877,9 @@
              <colorrole role="WindowText">
               <brush brushstyle="SolidPattern">
                <color alpha="255">
-                <red>255</red>
-                <green>255</green>
-                <blue>255</blue>
+                <red>0</red>
+                <green>0</green>
+                <blue>0</blue>
                </color>
               </brush>
              </colorrole>
@@ -6019,7 +6019,7 @@
               </brush>
              </colorrole>
              <colorrole role="PlaceholderText">
-              <brush brushstyle="NoBrush">
+              <brush brushstyle="SolidPattern">
                <color alpha="128">
                 <red>255</red>
                 <green>255</green>
@@ -6174,7 +6174,7 @@
               </brush>
              </colorrole>
              <colorrole role="PlaceholderText">
-              <brush brushstyle="NoBrush">
+              <brush brushstyle="SolidPattern">
                <color alpha="128">
                 <red>255</red>
                 <green>255</green>
@@ -6186,7 +6186,7 @@
            </palette>
           </property>
           <property name="styleSheet">
-           <string notr="true">QListView { background: transparent; }</string>
+           <string notr="true">QListView { background: transparent; rgb(0, 0, 0) }</string>
           </property>
           <property name="frameShape">
            <enum>QFrame::NoFrame</enum>
