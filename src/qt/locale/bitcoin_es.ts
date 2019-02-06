@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TOA</source>
-        <translation>Acerca de TOA</translation>
+        <source>About DSP</source>
+        <translation>Acerca de DSP</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TOA&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TOA&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;DSP&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;DSP&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TOA developers</source>
+Copyright © 2014 The DSP developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TOA developers</translation>
+Copyright © 2014 The DSP developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TOA addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de TOA para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your DSP addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de DSP para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TOA address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de TOA</translation>
+        <source>Sign a message to prove you own a DSP address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de DSP</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TOA address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de TOA</translation>
+        <source>Verify a message to ensure it was signed with a specified DSP address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de DSP</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>TOA will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TOA cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>DSP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DSP cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TOA</source>
-        <translation>Mostrar información sobre TOA</translation>
+        <source>Show information about DSP</source>
+        <translation>Mostrar información sobre DSP</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TOA address</source>
-        <translation>Enviar monedas a una dirección de TOA</translation>
+        <source>Send coins to a DSP address</source>
+        <translation>Enviar monedas a una dirección de DSP</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TOA</source>
-        <translation>Modificar las opciones de configuración para TOA</translation>
+        <source>Modify configuration options for DSP</source>
+        <translation>Modificar las opciones de configuración para DSP</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-200"/>
-        <source>TOA</source>
-        <translation>TOA</translation>
+        <source>DSP</source>
+        <translation>DSP</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TOA</source>
-        <translation>Acerca de TOA</translation>
+        <source>&amp;About DSP</source>
+        <translation>Acerca de DSP</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TOA client</source>
-        <translation>Cliente TOA</translation>
+        <source>DSP client</source>
+        <translation>Cliente DSP</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TOA network</source>
-        <translation><numerusform>%n conexión activa a la red TOA</numerusform><numerusform>%n conexiones activas a la red TOA</numerusform></translation>
+        <source>%n active connection(s) to DSP network</source>
+        <translation><numerusform>%n conexión activa a la red DSP</numerusform><numerusform>%n conexiones activas a la red DSP</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -662,8 +662,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TOA address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de TOA no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DSP address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de DSP no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -722,8 +722,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TOA can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. TOA ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. DSP can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. DSP ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1056,8 +1056,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TOA address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de TOA.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DSP address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de DSP.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,8 +1075,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TOA-Qt</source>
-        <translation>TOA-Qt</translation>
+        <source>DSP-Qt</source>
+        <translation>DSP-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,13 +1148,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TOA after logging in to the system.</source>
-        <translation>Iniciar TOA automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start DSP after logging in to the system.</source>
+        <translation>Iniciar DSP automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TOA on system login</source>
-        <translation>&amp;Iniciar TOA al inicio del sistema</translation>
+        <source>&amp;Start DSP on system login</source>
+        <translation>&amp;Iniciar DSP al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1173,8 +1173,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TOA client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente TOA en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the DSP client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente DSP en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TOA network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de TOA a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the DSP network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de DSP a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1258,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TOA.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar TOA.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DSP.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar DSP.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1273,8 +1273,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TOA addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de TOA en la lista de transacciones o no.</translation>
+        <source>Whether to show DSP addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de DSP en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1320,8 +1320,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TOA.</source>
-        <translation>Esta configuración se aplicará después de reiniciar TOA.</translation>
+        <source>This setting will take effect after restarting DSP.</source>
+        <translation>Esta configuración se aplicará después de reiniciar DSP.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1339,8 +1339,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TOA network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red TOA después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DSP network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red DSP después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1555,8 +1555,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TOA-Qt help message to get a list with possible TOA command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de TOA-Qt para obtener una lista con las posibles opciones de línea de comandos para TOA.</translation>
+        <source>Show the DSP-Qt help message to get a list with possible DSP command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de DSP-Qt para obtener una lista con las posibles opciones de línea de comandos para DSP.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,13 +1575,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TOA - Debug window</source>
-        <translation>TOA - Ventana de depuración</translation>
+        <source>DSP - Debug window</source>
+        <translation>DSP - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TOA Core</source>
-        <translation>Núcleo TOA</translation>
+        <source>DSP Core</source>
+        <translation>Núcleo DSP</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1590,8 +1590,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TOA debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de TOA del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the DSP debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de DSP del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TOA RPC console.</source>
-        <translation>Bienvenido a la consola RPC de TOA</translation>
+        <source>Welcome to the DSP RPC console.</source>
+        <translation>Bienvenido a la consola RPC de DSP</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1759,8 +1759,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TOA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección TOA (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DSP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección DSP (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,8 +1859,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TOA address</source>
-        <translation>ADVERTENCIA: Dirección TOA inválida</translation>
+        <source>WARNING: Invalid DSP address</source>
+        <translation>ADVERTENCIA: Dirección DSP inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1933,8 +1933,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TOA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección TOA (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DSP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección DSP (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1994,8 +1994,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TOA address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección TOA.</translation>
+        <source>Sign the message to prove you own this DSP address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección DSP.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,8 +2026,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TOA address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección TOA especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified DSP address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección DSP especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2037,8 +2037,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TOA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección TOA (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DSP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección DSP (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TOA signature</source>
-        <translation>Introduce la firma TOA</translation>
+        <source>Enter DSP signature</source>
+        <translation>Introduce la firma DSP</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2618,8 +2618,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TOA version</source>
-        <translation>versión TOA</translation>
+        <source>DSP version</source>
+        <translation>versión DSP</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2809,8 +2809,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TOA will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo TOA no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DSP will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo DSP no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
@@ -3017,7 +3017,7 @@ rpcpassword=%s
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3149,13 +3149,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TOA is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. TOA probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  DSP is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. DSP probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TOA</source>
-        <translation>TOA</translation>
+        <source>DSP</source>
+        <translation>DSP</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TOA</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de TOA</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DSP</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de DSP</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TOA to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie TOA para completar</translation>
+        <source>Wallet needed to be rewritten: restart DSP to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie DSP para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TOA is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. TOA probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. DSP is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. DSP probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

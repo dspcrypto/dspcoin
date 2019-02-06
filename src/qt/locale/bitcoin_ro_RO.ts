@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TOA</source>
-        <translation>Despre TOA</translation>
+        <source>About DSP</source>
+        <translation>Despre DSP</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TOA&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;TOA&lt;/b&gt;</translation>
+        <source>&lt;b&gt;DSP&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;DSP&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TOA developers</source>
+Copyright © 2014 The DSP developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TOA developers</translation>
+Copyright © 2014 The DSP developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TOA addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele TOA pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your DSP addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele DSP pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TOA address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă TOA</translation>
+        <source>Sign a message to prove you own a DSP address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DSP</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TOA address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă TOA</translation>
+        <source>Verify a message to ensure it was signed with a specified DSP address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DSP</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Atentie: Daca encriptezi portofelul si iti uiti parola, &lt;b&gt;VEI PIERDE TOATA MONEDELE&lt;/b&gt;!</translation>
+        <translation>Atentie: Daca encriptezi portofelul si iti uiti parola, &lt;b&gt;VEI PIERDE DSPTA MONEDELE&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>TOA will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TOA se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>DSP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>DSP se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TOA</source>
-        <translation>Arată informații despre TOA</translation>
+        <source>Show information about DSP</source>
+        <translation>Arată informații despre DSP</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TOA address</source>
-        <translation>Trimite monede către o adresă TOA</translation>
+        <source>Send coins to a DSP address</source>
+        <translation>Trimite monede către o adresă DSP</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TOA</source>
-        <translation>Modifică opțiuni de configurare pentru TOA</translation>
+        <source>Modify configuration options for DSP</source>
+        <translation>Modifică opțiuni de configurare pentru DSP</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>TOA</source>
-        <translation>TOA</translation>
+        <source>DSP</source>
+        <translation>DSP</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TOA</source>
-        <translation>Despre TOA</translation>
+        <source>&amp;About DSP</source>
+        <translation>Despre DSP</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TOA client</source>
-        <translation>Clientul TOA</translation>
+        <source>DSP client</source>
+        <translation>Clientul DSP</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TOA network</source>
-        <translation><numerusform>%n conexiune activă la reteaua TOA</numerusform><numerusform>%n conexiuni active la reteaua TOA</numerusform><numerusform>%n conexiuni active la reteaua TOA</numerusform></translation>
+        <source>%n active connection(s) to DSP network</source>
+        <translation><numerusform>%n conexiune activă la reteaua DSP</numerusform><numerusform>%n conexiuni active la reteaua DSP</numerusform><numerusform>%n conexiuni active la reteaua DSP</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TOA address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa TOA invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DSP address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa DSP invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TOA can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. TOA nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. DSP can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. DSP nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TOA address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă TOA validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DSP address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă DSP validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TOA-Qt</source>
-        <translation>TOA-Qt</translation>
+        <source>DSP-Qt</source>
+        <translation>DSP-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TOA after logging in to the system.</source>
-        <translation>Pornește TOA imdiat după logarea în sistem</translation>
+        <source>Automatically start DSP after logging in to the system.</source>
+        <translation>Pornește DSP imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TOA on system login</source>
-        <translation>$Pornește TOA la logarea în sistem</translation>
+        <source>&amp;Start DSP on system login</source>
+        <translation>$Pornește DSP la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TOA client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul TOA pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the DSP client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul DSP pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TOA network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua TOA prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the DSP network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua DSP prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TOA.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea TOA.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DSP.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea DSP.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TOA addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese TOA din lista de tranzacție sau nu.</translation>
+        <source>Whether to show DSP addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese DSP din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TOA.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea TOA.</translation>
+        <source>This setting will take effect after restarting DSP.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea DSP.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TOA network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua TOA după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DSP network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua DSP după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TOA-Qt help message to get a list with possible TOA command-line options.</source>
-        <translation>Afișa mesajul de ajutor TOA-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă TOA.</translation>
+        <source>Show the DSP-Qt help message to get a list with possible DSP command-line options.</source>
+        <translation>Afișa mesajul de ajutor DSP-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă DSP.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TOA - Debug window</source>
-        <translation>TOA - fereastră depanare</translation>
+        <source>DSP - Debug window</source>
+        <translation>DSP - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TOA Core</source>
-        <translation>TOA Core</translation>
+        <source>DSP Core</source>
+        <translation>DSP Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TOA debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare TOA din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the DSP debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare DSP din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TOA RPC console.</source>
-        <translation>Bine ati venit la consola TOA RPC.</translation>
+        <source>Welcome to the DSP RPC console.</source>
+        <translation>Bine ati venit la consola DSP RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TOA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă TOA(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DSP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă DSP(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TOA address</source>
-        <translation>Atenție: Adresă TOA invalidă</translation>
+        <source>WARNING: Invalid DSP address</source>
+        <translation>Atenție: Adresă DSP invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TOA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă TOA(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DSP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă DSP(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TOA address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă TOA</translation>
+        <source>Sign the message to prove you own this DSP address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DSP</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TOA address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă TOA</translation>
+        <source>Verify the message to ensure it was signed with the specified DSP address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DSP</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TOA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă TOA(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a DSP address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă DSP(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TOA signature</source>
-        <translation>Introduceti semnatura TOA</translation>
+        <source>Enter DSP signature</source>
+        <translation>Introduceti semnatura DSP</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TOA version</source>
-        <translation>Versiune TOA</translation>
+        <source>DSP version</source>
+        <translation>Versiune DSP</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TOA will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit TOA nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DSP will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit DSP nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2996,7 +2996,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=toarpc
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TOA is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  DSP is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TOA</source>
-        <translation>TOA</translation>
+        <source>DSP</source>
+        <translation>DSP</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TOA</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de TOA</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DSP</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de DSP</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TOA to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați TOA pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart DSP to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați DSP pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;TOA Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TOA is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil TOA ruleaza</translation>
+        <source>Unable to bind to %s on this computer. DSP is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil DSP ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>
