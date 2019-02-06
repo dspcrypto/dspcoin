@@ -4,7 +4,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About DSP</source>
-        <translation>Tietoa DSPista</translation>
+        <translation>Tiedsp DSPista</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -27,11 +27,11 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-Tämä on kokeellista ohjelmistoa.
+Tämä on kokeellista ohjelmisdsp.
 
 Levitetään MIT/X11 ohjelmistolisenssin alaisuudessa. Tarkemmat tiedot löytyvät tiedostosta COPYING tai osoitteesta http://www.opensource.org/licenses/mit-license.php.
 
-Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-työkalupakettia varten (http://www.openssl.org/), Eric Youngin (eay@cryptsoft.com) kehittämän salausohjelmiston sekä Thomas Bernardin UPnP-ohjelmiston.
+Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmisdsp OpenSSL-työkalupakettia varten (http://www.openssl.org/), Eric Youngin (eay@cryptsoft.com) kehittämän salausohjelmiston sekä Thomas Bernardin UPnP-ohjelmiston.
 </translation>
     </message>
 </context>
@@ -65,7 +65,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-46"/>
         <source>These are your DSP addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat DSP-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <translation>Nämä ovat DSP-osoitteesi rahansiirtojen vastaanotdsp varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -201,7 +201,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Tätä toimintoa varten sinun täytyy antaa lompakon tunnuslause sen avaamiseksi.</translation>
+        <translation>Tätä toimindsp varten sinun täytyy antaa lompakon tunnuslause sen avaamiseksi.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -211,7 +211,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Tätä toimintoa varten sinun täytyy antaa lompakon tunnuslause salauksen purkuun.</translation>
+        <translation>Tätä toimindsp varten sinun täytyy antaa lompakon tunnuslause salauksen purkuun.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -263,7 +263,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-58"/>
         <source>DSP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>DSP-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittoahjelmien aiheuttamien varkauksien uhalta.</translation>
+        <translation>DSP-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haitdsphjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -482,7 +482,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+178"/>
         <source>&amp;About DSP</source>
-        <translation>&amp;Tietoa DSPista</translation>
+        <translation>&amp;Tiedsp DSPista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -619,7 +619,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Tämä rahansiirto ylittää siirtorajan. Voit silti lähettää sen %1 rahansiirtopalkkiota vastaan, joka siirretään rahansiirtoasi käsitteleville solmuille jotta se auttaisi ja tukisi verkkoa. Haluatko maksaa rahansiirtopalkkion?</translation>
+        <translation>Tämä rahansiirto ylittää siirtorajan. Voit silti lähettää sen %1 rahansiirtopalkkiota vastaan, joka siirretään rahansiirdspsi käsitteleville solmuille jotta se auttaisi ja tukisi verkkoa. Haluatko maksaa rahansiirtopalkkion?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -688,7 +688,7 @@ Osoite: %4</translation>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Virhe tallentaessa lompakkotiedostoa uuteen sijaintiinsa.</translation>
+        <translation>Virhe tallentaessa lompakkotiedosdsp uuteen sijaintiinsa.</translation>
     </message>
     <message numerus="yes">
         <location line="+76"/>
@@ -1279,7 +1279,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>Näytä tai piilota rahanhallintoaminaisuudet.</translation>
+        <translation>Näytä tai piilota rahanhallindspminaisuudet.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1414,7 +1414,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation>Pyydä rahansiirtoa</translation>
+        <translation>Pyydä rahansiirdsp</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -1491,7 +1491,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation>T&amp;ietoa</translation>
+        <translation>T&amp;iedsp</translation>
     </message>
     <message>
         <location line="+68"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Syötä komento kohteeseen -server tai toad</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Syötä komento kohteeseen -server tai dspd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: toa.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: dsp.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2749,12 +2749,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Virhe: Lompakko lukittu, rahansiirtoa ei voida luoda</translation>
+        <translation>Virhe: Lompakko lukittu, rahansiirdsp ei voida luoda</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation>Tuodaan lohkoketjun datatiedostoa.</translation>
+        <translation>Tuodaan lohkoketjun datatiedosdsp.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2804,7 +2804,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Varoitus: Virhe luettaessa wallet.dat-tiedostoa! Kaikki avaimet luettiin oikein, mutta rahansiirtodata tai osoitekirjan kentät voivat olla puuttuvat tai väärät.</translation>
+        <translation>Varoitus: Virhe luettaessa wallet.dat-tiedosdsp! Kaikki avaimet luettiin oikein, mutta rahansiirtodata tai osoitekirjan kentät voivat olla puuttuvat tai väärät.</translation>
     </message>
     <message>
         <location line="-18"/>
@@ -2874,12 +2874,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Tulosta lisäksi debug-tietoa, seuraa kaikkia muita -debug*-asetuksia</translation>
+        <translation>Tulosta lisäksi debug-tiedsp, seuraa kaikkia muita -debug*-asetuksia</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>Tulosta lisäksi verkon debug-tietoa</translation>
+        <translation>Tulosta lisäksi verkon debug-tiedsp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2988,7 +2988,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2999,11 +2999,11 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
-Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
+Jos tiedosdsp ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
 On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
 </translation>
     </message>
@@ -3160,17 +3160,17 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="-15"/>
         <source>Error loading blkindex.dat</source>
-        <translation>Virhe ladattaessa blkindex.dat-tiedostoa</translation>
+        <translation>Virhe ladattaessa blkindex.dat-tiedosdsp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko vioittunut</translation>
+        <translation>Virhe ladattaessa wallet.dat-tiedosdsp: Lompakko vioittunut</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of DSP</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version DSP-asiakasohjelmasta</translation>
+        <translation>Virhe ladattaessa wallet.dat-tiedosdsp: Lompakko tarvitsee uudemman version DSP-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3180,7 +3180,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa</translation>
+        <translation>Virhe ladattaessa wallet.dat-tiedosdsp</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -3304,7 +3304,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
 If the file does not exist, create it with owner-readable-only file permissions.</source>
         <translation>Sinun täytyy asettaa rpcpassword=&lt;password&gt; asetustiedostoon:
 %s
-Jos tiedostoa ei ole, niin luo se ainoastaan omistajan kirjoitusoikeuksin.</translation>
+Jos tiedosdsp ei ole, niin luo se ainoastaan omistajan kirjoitusoikeuksin.</translation>
     </message>
 </context>
 </TS>

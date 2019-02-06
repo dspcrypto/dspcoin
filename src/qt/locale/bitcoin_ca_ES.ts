@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Enviar comandes a -server o toad</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Enviar comandes a -server o dspd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: toad.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: dspd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2981,7 +2981,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2992,7 +2992,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.

@@ -2618,8 +2618,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>向-server服务器或toad发送命令</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>向-server服务器或dspd发送命令</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2641,13 +2641,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>指定配置文件(默认: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>指定配置文件(默认: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>指定pid文件(默认: toad.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>指定pid文件(默认: dspd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2991,7 +2991,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3002,7 +3002,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>%s, 必须在配置文件里设置rpc密码:
  %s
 建议使用如下的随机密码:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (不需要记住该密码)
 用户名和密码不能重复。

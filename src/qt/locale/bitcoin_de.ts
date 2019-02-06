@@ -2608,8 +2608,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Kommando versenden an -server oder toad </translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Kommando versenden an -server oder dspd </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,13 +2628,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>PID Datei angeben (Standard: toa.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>PID Datei angeben (Standard: dsp.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2972,7 +2972,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.

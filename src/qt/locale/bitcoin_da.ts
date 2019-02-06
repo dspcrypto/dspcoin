@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Send kommando til-server eller toad</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Send kommando til-server eller dspd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Angiv konfigurationsfil (default: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Angiv konfigurationsfil (default: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>Angiv pid fil (standard: toad.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>Angiv pid fil (standard: dspd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2990,7 +2990,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3001,7 +3001,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = toarpc  
+rpcuser = dsprpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  

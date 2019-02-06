@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Skicka kommando till -server eller toad</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Skicka kommando till -server eller dspd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>Ange pid filen (standard toad.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>Ange pid filen (standard dspd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2991,7 +2991,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3002,7 +3002,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.

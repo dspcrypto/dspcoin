@@ -2624,8 +2624,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>-server か toadへコマンドを送る。</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>-server か dspdへコマンドを送る。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>設定ファイルを特定する (デファルト: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>設定ファイルを特定する (デファルト: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>pid ファイルを特定する (デフォルト: toad.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>pid ファイルを特定する (デフォルト: dspd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2989,7 +2989,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3000,7 +3000,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>%s, 設定ファイル：%sでrpcpasswordのパスワードを入力しなければならい
 
 このランダムパスワードのおすすめです：
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (このパサワードを覚えなくても大丈夫です)
 ユーザ名とパスワードは同じであってはなりません。

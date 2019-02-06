@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Envía un comando a -server o toad</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Envía un comando a -server o dspd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,13 +2651,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: toad.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: dspd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3000,7 +3000,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3011,7 +3011,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.

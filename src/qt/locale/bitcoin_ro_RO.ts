@@ -192,7 +192,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Introdu noua parolă a portofelului electronic.&lt;br/&gt;Te rog folosește &lt;b&gt;minim 10 caractere aleatoare&lt;/b&gt;, sau &lt;b&gt;minim 8 cuvinte&lt;/b&gt;.</translation>
+        <translation>Introdu noua parolă a portofelului electronic.&lt;br/&gt;Te rog folosește &lt;b&gt;minim 10 caractere aleadspre&lt;/b&gt;, sau &lt;b&gt;minim 8 cuvinte&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1727,7 +1727,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>Scoateți toate câmpuirile de tranzacții</translation>
+        <translation>Scoateți dspte câmpuirile de tranzacții</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1997,7 +1997,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Reseteaza toate spatiile mesajelor semnate.</translation>
+        <translation>Reseteaza dspte spatiile mesajelor semnate.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2029,7 +2029,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>Reseteaza toate spatiile mesajelor semnate.</translation>
+        <translation>Reseteaza dspte spatiile mesajelor semnate.</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or toad</source>
-        <translation>Trimite comanda catre server sau toad</translation>
+        <source>Send command to -server or dspd</source>
+        <translation>Trimite comanda catre server sau dspd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: toa.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: toa.conf)</translation>
+        <source>Specify configuration file (default: dsp.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: dsp.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: toad.pid)</source>
-        <translation>Speficica fisier pid(implicit: toa.pid)</translation>
+        <source>Specify pid file (default: dspd.pid)</source>
+        <translation>Speficica fisier pid(implicit: dsp.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2781,7 +2781,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>A intervenit o eroare in timp ce se seta portul RPC %u pentru ascultare pe IPv6, reintoarcere la IPv4: %s</translation>
+        <translation>A intervenit o eroare in timp ce se seta portul RPC %u pentru ascultare pe IPv6, reindsprcere la IPv4: %s</translation>
     </message>
     <message>
         <location line="+117"/>
@@ -2876,7 +2876,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Extra informatii despre depanare. Implica toate optiunile -debug*</translation>
+        <translation>Extra informatii despre depanare. Implica dspte optiunile -debug*</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2990,7 +2990,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=toarpc
+rpcuser=dsprpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2999,7 +2999,7 @@ It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=toarpc
+Este recomandat să folosiți urmădsprea parolă generată aleator: rpcuser=dsprpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
@@ -3076,7 +3076,7 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;DSP Alert&quot; admin@foo.com
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>Câte block-uri se verifică la initializare (implicit: 2500, 0 = toate)</translation>
+        <translation>Câte block-uri se verifică la initializare (implicit: 2500, 0 = dspte)</translation>
     </message>
     <message>
         <location line="+1"/>
