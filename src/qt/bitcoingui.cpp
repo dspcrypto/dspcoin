@@ -311,6 +311,8 @@ void BitcoinGUI::createMenuBar()
     appMenuBar = menuBar();
 #endif
 
+    appMenuBar->setStyleSheet("QMenu:item:selected {background-color:#78A539};"); 
+	
     // Configure the menus
     QMenu *file = appMenuBar->addMenu(tr("&File"));
     file->addAction(backupWalletAction);
@@ -319,7 +321,6 @@ void BitcoinGUI::createMenuBar()
     file->addAction(verifyMessageAction);
     file->addSeparator();
     file->addAction(quitAction);
-    file->setStyleSheet("QMenu:item:selected {background-color:#78A539};");
 
     QMenu *settings = appMenuBar->addMenu(tr("&Settings"));
     settings->addAction(encryptWalletAction);

@@ -47,3 +47,4 @@ src/qt/res/images/.DS_Store
 .DS_Store
 DSP-Qt.dmg
 DSP-qt.pro.autosave
+*.qm
