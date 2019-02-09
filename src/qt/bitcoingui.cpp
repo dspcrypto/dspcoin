@@ -319,6 +319,7 @@ void BitcoinGUI::createMenuBar()
     file->addAction(verifyMessageAction);
     file->addSeparator();
     file->addAction(quitAction);
+    file->setStyleSheet("QMenu:item:selected {background-color:#78A539};");
 
     QMenu *settings = appMenuBar->addMenu(tr("&Settings"));
     settings->addAction(encryptWalletAction);
@@ -339,15 +340,15 @@ void BitcoinGUI::createToolBars()
 {
     QToolBar *toolbar = addToolBar(tr("Tabs toolbar"));
     toolbar->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
-    toolbar->setStyleSheet("QToolButton:hover {background-color:#78A539};");
+    toolbar->setStyleSheet("QToolButton:checked {background-color:#78A539}");
     toolbar->addAction(overviewAction);
     toolbar->addAction(sendCoinsAction);
     toolbar->addAction(receiveCoinsAction);
     toolbar->addAction(historyAction);
     toolbar->addAction(addressBookAction);
 
-    QToolBar *toolbar2 = addToolBar(tr("Actions toolbar"));
-    toolbar2->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
+   // QToolBar *toolbar2 = addToolBar(tr("Actions toolbar"));
+    //toolbar2->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
     //toolbar2->addAction(exportAction);
 }
 
