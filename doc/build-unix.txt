@@ -16,15 +16,14 @@ To Build
 cd src/
 make -f makefile.unix            # Headless dsp
 
-See readme-qt.rst for instructions on building DSP QT,
-the graphical dsp.
+
 
 Dependencies
 ------------
 
  Library     Purpose           Description
  -------     -------           -----------
- libssl      SSL Support       Secure communications
+ libssl      SSL Support       Secure communications **will not work with openssl ver 1.1 above. See notes below on installing compatible library
  libdb       Berkeley DB       Blockchain & wallet storage
  libboost    Boost             C++ Library
  miniupnpc   UPnP Support      Optional firewall-jumping support
@@ -61,11 +60,15 @@ Versions used in this release:
 
 Dependency Build Instructions: Ubuntu & Debian
 ----------------------------------------------
-sudo apt-get install build-essential
-sudo apt-get install libssl-dev
-sudo apt-get install libdb++-dev
-sudo apt-get install libboost-all-dev
-sudo apt-get install libqrencode-dev
+sudo apt-get install  build-essential \
+                      libboost-dev \ 
+                      libboost-system-dev \
+                      libboost-filesystem-dev \
+                      libboost-program-options-dev \ 
+                      libboost-thread-dev \
+                      libdb++-dev \
+                      libminiupnpc-dev \
+                      libqrencode-dev
 
 If using Boost 1.37, append -mt to the boost libraries in the makefile.
 
@@ -95,13 +98,22 @@ make
 sudo su
 make install
 
-
 Berkeley DB
 -----------
 You need Berkeley DB. If you have to build Berkeley DB yourself:
 ../dist/configure --enable-cxx
 make
 
+OpenSSL
+-----------
+You need OpenSSL version 1.0.x. To build openssl yourself:
+./config -DOPENSSL_NO_KRB5
+make
+make install
+
+and then add to makefile.unix:
+OPENSSL_LIB_PATH=/usr/local/ssl/lib
+OPENSSL_INCLUDE_PATH=/usr/local/ssl/include
 
 Boost
 -----
@@ -109,6 +121,7 @@ If you need to build Boost yourself:
 sudo su
 ./bootstrap.sh
 ./bjam install
+
 
 
 Security
